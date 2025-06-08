@@ -1,102 +1,135 @@
-Survival and Collapse of Historical States: Analysis Based on the MOROS Dataset
+# Survival and Collapse of Historical States: Analysis Based on the MOROS Dataset
 
-Objective
+## Objective
 
-This project aims to analyze the formation, survival, and collapse patterns of historical states across ~5,000 years, drawing on the MOROS (Mortality of States) dataset as described in:
+This project analyzes the formation, survival, and collapse patterns of historical states across ~5,000 years, using the **MOROS (Mortality of States)** dataset as described in:
 
-“Loss of Resilience in Aging Societies”
-Proceedings of the National Academy of Sciences (PNAS), 2023
-DOI: 10.1073/pnas.2218834120
+> *Loss of Resilience in Aging Societies*, Proceedings of the National Academy of Sciences (PNAS), 2023  
+> DOI: [10.1073/pnas.2218834120](https://doi.org/10.1073/pnas.2218834120)
 
 The project explores questions such as:
-	•	What is the typical lifespan of a state?
-	•	How does collapse risk evolve as a state ages?
-	•	How do geography and political type affect state survival?
-	•	What are the common causes of state collapse?
 
-Datasets
+- What is the typical lifespan of a state?
+- How does collapse risk evolve as a state ages?
+- How do geography and political type affect state survival?
+- What are common causes of state collapse?
+- Can we detect patterns in textual descriptions of collapse?
 
-Table1.csv
+---
 
-Simplified export of the core variables from the MOROS dataset:
-	•	Society_Polity: Name of the polity or state
-	•	formation: State formation date (year)
-	•	collapse: State collapse date (year)
-	•	age: Lifespan of the polity (years)
-	•	NaturalGeoArea: Geographic region
-	•	quasi_polity: Boolean flag (True = quasi-state)
+## Datasets
 
-→ Ideal for reproducing PNAS paper analyses:
-Kaplan-Meier survival curves, hazard functions, lifespan distributions.
+### `Table1.csv`
 
-⸻
+A simplified export of the core variables from the **MOROS** dataset:
 
-Table2.csv
+| Column          | Description                              |
+|-----------------|------------------------------------------|
+| `Society_Polity` | Name of the polity or state               |
+| `formation`      | State formation date (year)               |
+| `collapse`       | State collapse date (year)                |
+| `age`            | Lifespan of the polity (years)            |
+| `NaturalGeoArea` | Broad geographic area of the polity       |
+| `quasi_polity`   | Boolean flag — quasi-state or full state  |
 
-Extended dataset of 731 states/polities with additional detail:
-	•	Formation, collapse, lifespan
-	•	Political type and subtype
-	•	Region, continent
-	•	Collapse causes (Proximate_Cause, Underlying_Cause)
-	•	Capital locations and coordinates
-	•	Additional variables (e.g. violience_attractor)
+→ Ideal for reproducing the **PNAS paper analysis**:
+- Kaplan-Meier survival curves
+- Hazard functions
+- Lifespan distributions
+
+---
+
+### `Table2.csv`
+
+An extended dataset of **731 states/polities** with additional variables:
+
+| Column                   | Example Fields |
+|--------------------------|----------------|
+| Formation, collapse, lifespan | `State_Formation_low`, `Collapse_high`, `age` |
+| Political type, subtype       | `Political_Type`, `Political_Sub_Type` |
+| Geography                    | `Region`, `continent`, `Capital`, lat/lon |
+| Collapse causes              | `Proximate_Cause`, `Underlying_Cause` |
+| Notes, text data             | `Notes`, `Relatationship` |
+| Others                       | `violience_attractor`, `censored` |
 
 → Enables richer exploratory analysis:
-	•	Political type comparison
-	•	Geospatial mapping of state survival
-	•	Analysis of collapse causes
-	•	Temporal trends in state formation/collapse
+- Political type comparison
+- Mapping of state locations and survival
+- Analysis of textual collapse causes
+- Advanced temporal patterns
 
-⸻
+---
 
-Planned Analyses
+## Planned Analyses
 
-1️⃣ Descriptive Analysis
-	•	Distribution of state lifespans (age)
-	•	Temporal trends in state formation/collapse
-	•	Compare lifespans across political types and regions
+### 1️⃣ Descriptive Analysis
 
-2️⃣ Survival Analysis (core replication of PNAS)
-	•	Kaplan-Meier survival curves
-	•	Fit parametric hazard functions (lognormal, Gompertz, etc.)
-	•	Compare survival probabilities by political type, geography
+- Distribution of state lifespans (`age`)
+- Trends in state formation and collapse over time
+- Comparison of lifespans across political types and regions
 
-3️⃣ Geographic Visualization
-	•	Map state capitals and visualize lifespan
-	•	Analyze spatial patterns in state formation/collapse
+### 2️⃣ Survival Analysis
 
-4️⃣ Collapse Cause Analysis (Table2)
-	•	Explore frequency of collapse causes
-	•	Relate causes to political type, region, lifespan
+- Kaplan-Meier survival curves
+- Parametric hazard models (lognormal, Gompertz, etc.)
+- Comparison of survival probability by political type and region
 
-5️⃣ Advanced Modeling
-	•	Sensitivity of results to inclusion/exclusion of quasi-polities
-	•	Time-windowed analysis (does average lifespan change over centuries?)
-	•	Potential to explore loss of resilience trends as in the PNAS paper
-Tools & Libraries
+### 3️⃣ Geographic Visualization
 
-📊 Data processing & visualization
-	•	pandas, numpy: data manipulation and analysis
-	•	matplotlib, seaborn, plotly: data visualization
-	•	geopandas, folium: geographic mapping and interactive maps (e.g. capitals)
+- Mapping of state capitals and lifespan using `folium`
+- Spatial patterns of state formation and collapse
 
-📈 Survival analysis
-	•	lifelines: Kaplan-Meier curves, hazard modeling, parametric survival models
+### 4️⃣ Collapse Cause Analysis (Table2)
 
-🗺️ Geographic visualization
-	•	folium: interactive maps (capital locations, regions, collapse hotspots)
+- Frequency analysis of `Proximate_Cause`, `Underlying_Cause`
+- Text analysis of `Notes` and cause columns
+- Potential topic modeling (LDA)
 
-🗂️ Text analysis & NLP
-	•	wordcloud: generate word clouds from textual columns (Proximate_Cause, Underlying_Cause, Notes)
-	•	nltk (Natural Language Toolkit): stopword removal, tokenization, lemmatization
-	•	spacy: advanced NLP pipeline (lemmatization, named entity recognition if needed)
-	•	sklearn.feature_extraction.text (TF-IDF Vectorizer): term frequency analysis
-	•	gensim: topic modeling (LDA) — optional if you want to go deeper into text patterns
- 
-⸻
+### 5️⃣ Advanced Modeling
 
-Deliverables
-	•	Jupyter notebooks with full analysis
-	•	Visualizations and charts
-	•	Summary report of key findings
-	•	This README
+- Impact of including/excluding quasi-polities
+- Trends in average lifespan over historical periods
+- Replication and extension of the **PNAS "Loss of Resilience"** findings
+
+---
+
+## Tools & Libraries
+
+### 📊 Data Processing & Visualization
+
+- `pandas`, `numpy`: Data manipulation and analysis
+- `matplotlib`, `seaborn`, `plotly`: Visualizations
+
+### 📈 Survival Analysis
+
+- `lifelines`: Kaplan-Meier curves, hazard modeling
+
+### 🗺️ Geographic Visualization
+
+- `geopandas`, `folium`: Interactive geographic maps (state capitals, collapse hotspots)
+
+### 🗂️ Text Analysis & NLP
+
+- `wordcloud`: Generate word clouds of textual columns
+- `nltk`: Tokenization, stopword removal, lemmatization
+- `spacy`: Advanced NLP (lemmatization, NER if needed)
+- `sklearn.feature_extraction.text` (TF-IDF Vectorizer): Term frequency analysis
+- `gensim`: Topic modeling (LDA)
+
+---
+
+## Deliverables
+
+- Jupyter notebooks with full analysis
+- Visualizations and maps
+- Summary report of key findings
+- `README.md`
+
+---
+
+## Notes
+
+- The project is inspired by the **MOROS** dataset described in the PNAS paper, and uses both core variables (`Table1.csv`) and extended variables (`Table2.csv`) to explore survival dynamics of historical states.
+- Additional exploratory text analysis is performed to extract patterns from collapse causes and narrative descriptions.
+
+---
