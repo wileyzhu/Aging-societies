@@ -1,0 +1,429 @@
+formation,collapse,Society_Polity,NaturalGeoArea,quasi_polity,age
+1748,1826,AfDurrn,Kachi Plain,FALSE,78
+1193,1206,AfGhurd,Kachi Plain,FALSE,13
+-248,-130,AfGrBct,Sogdiana,FALSE,118
+426,563,AfHepht,Sogdiana,FALSE,137
+496,531,AfHepht,Kachi Plain,FALSE,35
+30,230,AfKushn,Sogdiana,FALSE,200
+30,250,AfKushn,Kachi Plain,FALSE,220
+35,319,AfKushn,Middle Ganga,FALSE,284
+-129,29,AfTochr,Sogdiana,TRUE,158
+25,219,CnEHan*,Middle Yellow River Valley,FALSE,194
+265,317,CnErJin,Middle Yellow River Valley,FALSE,52
+-1650,-1251,CnErlig,Middle Yellow River Valley,TRUE,399
+-1850,-1651,CnErlit,Middle Yellow River Valley,TRUE,199
+1896,1941,CnHChin,Southern China Hills,FALSE,45
+1701,1895,CnHQngL,Southern China Hills,TRUE,194
+-338,-207,CnImQin,Middle Yellow River Valley,FALSE,131
+-794,-489,CnJinSA,Middle Yellow River Valley,FALSE,305
+-3000,-1900,CnLngsh,Middle Yellow River Valley,TRUE,1100
+1127,1234,CnLrJin,Middle Yellow River Valley,FALSE,107
+1368,1643,CnMing*,Middle Yellow River Valley,FALSE,275
+960,1126,CnNSong,Middle Yellow River Valley,FALSE,166
+386,557,CnNWei*,Middle Yellow River Valley,FALSE,171
+1644,1795,CnQingE,Middle Yellow River Valley,FALSE,151
+1796,1912,CnQingL,Middle Yellow River Valley,FALSE,116
+1796,1912,CnQingL,Orkhon Valley,FALSE,116
+-1250,-1123,CnShang,Middle Yellow River Valley,FALSE,127
+581,617,CnSui**,Middle Yellow River Valley,FALSE,36
+618,762,CnTangE,Middle Yellow River Valley,FALSE,144
+763,907,CnTangL,Middle Yellow River Valley,FALSE,144
+-202,9,CnWHan*,Middle Yellow River Valley,FALSE,211
+-1122,-795,CnWZhou,Middle Yellow River Valley,FALSE,327
+-488,-223,CnWeiWS,Middle Yellow River Valley,FALSE,265
+-5000,-3001,CnYngsh,Middle Yellow River Valley,TRUE,1999
+1271,1367,CnYuan*,Middle Yellow River Valley,FALSE,96
+1271,1367,CnYuan*,Orkhon Valley,FALSE,96
+250,1049,CoNahua,North Colombia,TRUE,799
+1050,1524,CoTairo,North Colombia,TRUE,474
+1534,1830,EcJivaE,Lowland Andes,TRUE,296
+1831,1931,EcJivaL,Lowland Andes,TRUE,100
+1171,1259,EgAyyub,Upper Egypt,FALSE,88
+-4400,-3801,EgBadar,Upper Egypt,FALSE,599
+-3100,-2901,EgDyn1*,Upper Egypt,FALSE,199
+-2900,-2651,EgDyn2*,Upper Egypt,FALSE,249
+-404,-343,EgIntOc,Upper Egypt,FALSE,61
+1260,1347,EgMamBh,Upper Egypt,FALSE,87
+1412,1516,EgMamBu,Upper Egypt,FALSE,104
+1348,1411,EgMamCP,Upper Egypt,FALSE,63
+-2016,-1721,EgMidKg,Upper Egypt,FALSE,295
+-1293,-1071,EgNKRam,Upper Egypt,FALSE,222
+-1550,-1294,EgNKThu,Upper Egypt,FALSE,256
+-3800,-3551,EgNaqa1,Upper Egypt,FALSE,249
+-3550,-3301,EgNaqa2,Upper Egypt,FALSE,249
+-3300,-3101,EgNaqa3,Upper Egypt,TRUE,199
+-2650,-2351,EgOldK1,Upper Egypt,FALSE,299
+-2350,-2151,EgOldK2,Upper Egypt,FALSE,199
+-300,-199,EgPtol1,Galilee,FALSE,101
+-305,-218,EgPtol1,Upper Egypt,FALSE,87
+-217,-32,EgPtol2,Upper Egypt,FALSE,185
+-2150,-2017,EgRegns,Upper Egypt,FALSE,133
+-655,-526,EgSaite,Upper Egypt,FALSE,129
+-1720,-1567,EgThebH,Upper Egypt,TRUE,153
+-1070,-761,EgThebL,Upper Egypt,TRUE,309
+868,969,EgTulIk,Upper Egypt,FALSE,101
+1516,1808,EsHabsb,Valley of Oaxaca,FALSE,292
+1532,1700,EsHabsb,Cuzco,FALSE,168
+1775,1885,FmTrukE,Chuuk Islands,TRUE,110
+1886,1948,FmTrukL,Chuuk Islands,FALSE,62
+-2200,-1001,FrAtlBA,Paris Basin,TRUE,1199
+-3200,-2201,FrBeakr,Paris Basin,TRUE,999
+1589,1659,FrBurbE,Paris Basin,FALSE,70
+1660,1788,FrBurbL,Paris Basin,FALSE,128
+987,1149,FrCaptE,Paris Basin,FALSE,162
+1150,1327,FrCaptL,Paris Basin,FALSE,177
+752,839,FrCarlE,Paris Basin,FALSE,87
+840,986,FrCarlL,Paris Basin,FALSE,146
+-1000,-901,FrHallA,Paris Basin,FALSE,99
+-900,-701,FrHallB,Paris Basin,FALSE,199
+-700,-601,FrHallC,Paris Basin,FALSE,99
+-600,-475,FrHallD,Paris Basin,FALSE,125
+481,542,FrMervE,Paris Basin,TRUE,61
+687,750,FrMervL,Paris Basin,FALSE,63
+543,686,FrMervM,Paris Basin,TRUE,143
+-474,-325,FrTeneA,Paris Basin,FALSE,149
+-324,-175,FrTeneB,Paris Basin,FALSE,149
+-174,-27,FrTeneC,Paris Basin,FALSE,147
+1328,1449,FrValoE,Paris Basin,FALSE,121
+1450,1588,FrValoL,Paris Basin,FALSE,138
+1780,1840,GbEmpr2,Deccan,FALSE,60
+1501,1701,GhAshnE,Ghanaian Coast,TRUE,200
+1702,1895,GhAshnL,Ghanaian Coast,FALSE,193
+-710,-501,GrCrArc,Crete,TRUE,209
+-500,-322,GrCrCls,Crete,TRUE,178
+824,960,GrCrEmr,Crete,FALSE,136
+-1200,-1001,GrCrFPa,Crete,TRUE,199
+-1000,-711,GrCrGeo,Crete,TRUE,289
+-323,-69,GrCrHel,Crete,TRUE,254
+-1450,-1301,GrCrMPa,Crete,FALSE,149
+-1700,-1451,GrCrNPa,Crete,TRUE,249
+-7000,-3001,GrCrNeo,Crete,TRUE,3999
+-1900,-1701,GrCrOPa,Crete,TRUE,199
+-1300,-1201,GrCrPPa,Crete,TRUE,99
+-3000,-1901,GrCrPre,Crete,TRUE,1099
+1000,1199,Hawaii1,Big Island Hawaii,TRUE,199
+1200,1649,Hawaii2,Big Island Hawaii,TRUE,449
+1650,1777,Hawaii3,Big Island Hawaii,TRUE,127
+1650,1841,IdBrokE,Kapuasi Basin,TRUE,191
+1842,1987,IdBrokL,Kapuasi Basin,FALSE,145
+-400,499,IdCJBun,Central Java,FALSE,899
+500,731,IdKalin,Central Java,FALSE,231
+1049,1222,IdKedir,Central Java,FALSE,173
+1291,1518,IdMajap,Central Java,FALSE,227
+1568,1703,IdMatrm,Central Java,FALSE,135
+732,1019,IdMedng,Central Java,FALSE,287
+-2000,-1181,IlCanaa,Galilee,TRUE,819
+-103,-62,IlJudea,Galilee,FALSE,41
+-1030,-722,IlYisrl,Galilee,FALSE,308
+-64,34,InAyodE,Middle Ganga,FALSE,98
+541,756,InChaBd,Deccan,FALSE,215
+974,1055,InChaKl,Deccan,FALSE,81
+-1200,-301,InDecIA,Deccan,TRUE,899
+-205,-101,InDecKg,Deccan,TRUE,104
+-2700,-1201,InDecNL,Deccan,TRUE,1499
+1206,1525,InDelh*,Middle Ganga,FALSE,319
+1207,1339,InDelh*,Kachi Plain,FALSE,132
+-3000,-600,InGangC,Middle Ganga,FALSE,2400
+-7000,-3000,InGangN,Middle Ganga,FALSE,4000
+1775,1867,InGaroE,Garo Hills,TRUE,92
+1868,1956,InGaroL,Garo Hills,FALSE,88
+1090,1202,InGhdvl,Middle Ganga,FALSE,112
+320,514,InGupta,Middle Ganga,FALSE,194
+810,1030,InGurjr,Middle Ganga,FALSE,220
+1192,1253,InHoysa,Deccan,FALSE,61
+451,540,InKadam,Deccan,FALSE,89
+1280,1310,InKampi,Deccan,FALSE,30
+650,779,InKanau,Middle Ganga,FALSE,129
+550,606,InMagad,Middle Ganga,FALSE,56
+-600,-325,InMahaJ,Middle Ganga,FALSE,275
+-300,-206,InMaury,Deccan,FALSE,94
+-303,-194,InMaury,Kachi Plain,FALSE,109
+-324,-188,InMaury,Middle Ganga,FALSE,136
+1526,1740,InMugl*,Kachi Plain,FALSE,214
+1526,1803,InMugl*,Middle Ganga,FALSE,277
+1687,1720,InMugl*,Deccan,FALSE,33
+757,973,InRasht,Deccan,FALSE,216
+780,809,InRasht,Middle Ganga,FALSE,29
+-100,203,InSataL,Deccan,FALSE,303
+-187,-65,InSunga,Middle Ganga,FALSE,122
+286,335,InVakat,Deccan,FALSE,49
+1337,1646,InVijay,Deccan,FALSE,309
+750,861,IqAbbs1,Kachi Plain,FALSE,111
+750,867,IqAbbs1,Upper Egypt,FALSE,117
+750,946,IqAbbs1,Sogdiana,FALSE,196
+750,946,IqAbbs1,Southern Mesopotamia,FALSE,196
+750,946,IqAbbs1,Susiana,FALSE,196
+1191,1207,IqAbbs2,Southern Mesopotamia,FALSE,16
+1191,1207,IqAbbs2,Susiana,FALSE,16
+-2250,-2113,IqAkkad,Susiana,FALSE,137
+-2350,-2150,IqAkkad,Southern Mesopotamia,FALSE,200
+-1894,-1596,IqBabAm,Southern Mesopotamia,FALSE,298
+-1595,-1154,IqBabKs,Southern Mesopotamia,FALSE,441
+-1005,-980,IqBazi*,Southern Mesopotamia,FALSE,25
+-979,-732,IqDynE*,Southern Mesopotamia,FALSE,247
+-2900,-2351,IqEDyn*,Southern Mesopotamia,TRUE,549
+-1153,-1027,IqIsin2,Southern Mesopotamia,FALSE,126
+-2003,-1895,IqIsinL,Southern Mesopotamia,TRUE,108
+-721,-539,IqNAssr,Galilee,FALSE,182
+-729,-627,IqNAssr,Southern Mesopotamia,FALSE,102
+-626,-538,IqNeoBb,Southern Mesopotamia,FALSE,88
+-9000,-5501,IqSoNeo,Southern Mesopotamia,FALSE,3499
+-5500,-4201,IqUbaid,Southern Mesopotamia,FALSE,1299
+-2112,-2004,IqUrIII,Southern Mesopotamia,FALSE,108
+-2112,-2029,IqUrIII,Susiana,FALSE,83
+-4200,-3000,IqUruk*,Southern Mesopotamia,FALSE,1200
+-520,-330,IrAchae,Sogdiana,FALSE,190
+-525,-405,IrAchae,Upper Egypt,FALSE,120
+-538,-331,IrAchae,Galilee,FALSE,207
+-539,-331,IrAchae,Southern Mesopotamia,FALSE,208
+-539,-331,IrAchae,Susiana,FALSE,208
+-546,-334,IrAchae,Konya Plain,FALSE,212
+-550,-329,IrAchae,Kachi Plain,FALSE,221
+1471,1504,IrAkKoy,Susiana,FALSE,33
+-7000,-6001,IrArcha,Susiana,TRUE,999
+-2675,-2251,IrAwanE,Susiana,FALSE,424
+947,1055,IrBuyid,Southern Mesopotamia,FALSE,108
+947,1055,IrBuyid,Susiana,FALSE,108
+-1100,-901,IrElmCP,Susiana,TRUE,199
+25,215,IrElym2,Susiana,FALSE,190
+-7200,-7001,IrForma,Susiana,TRUE,199
+1263,1326,IrIlkhn,Konya Plain,FALSE,63
+1263,1335,IrIlkhn,Southern Mesopotamia,FALSE,72
+1263,1335,IrIlkhn,Susiana,FALSE,72
+-6000,-5701,IrKhzE*,Susiana,FALSE,299
+-5700,-5101,IrKhzEM,Susiana,TRUE,599
+-4700,-4301,IrKhzL*,Susiana,TRUE,399
+-5100,-4701,IrKhzM*,Susiana,TRUE,399
+-1500,-1401,IrMElm1,Susiana,FALSE,99
+-1400,-1201,IrMElm2,Susiana,FALSE,199
+-1200,-1101,IrMElm3,Susiana,FALSE,99
+-900,-744,IrNElm1,Susiana,TRUE,156
+-743,-647,IrNElm2,Susiana,FALSE,96
+-612,-540,IrNElm3,Susiana,TRUE,72
+-143,24,IrPart1,Susiana,FALSE,167
+-143,40,IrPart1,Southern Mesopotamia,FALSE,183
+-95,21,IrPart1,Kachi Plain,FALSE,116
+41,219,IrPart2,Southern Mesopotamia,FALSE,178
+-7800,-7201,IrPrCer,Susiana,TRUE,599
+1794,1925,IrQajar,Susiana,FALSE,131
+1471,1533,IrSafvd,Southern Mesopotamia,FALSE,62
+1505,1722,IrSafvd,Susiana,FALSE,217
+220,498,IrSasn1,Southern Mesopotamia,FALSE,278
+220,498,IrSasn1,Susiana,FALSE,278
+231,425,IrSasn1,Sogdiana,FALSE,194
+251,495,IrSasn1,Kachi Plain,FALSE,244
+499,635,IrSasn2,Southern Mesopotamia,FALSE,136
+499,642,IrSasn2,Susiana,FALSE,143
+532,641,IrSasn2,Kachi Plain,FALSE,109
+-200,-104,IrSeleu,Galilee,FALSE,96
+-281,-190,IrSeleu,Konya Plain,FALSE,91
+-300,-249,IrSeleu,Sogdiana,FALSE,51
+-312,-144,IrSeleu,Southern Mesopotamia,FALSE,168
+-312,-144,IrSeleu,Susiana,FALSE,168
+1056,1190,IrSeljq,Southern Mesopotamia,FALSE,134
+1056,1190,IrSeljq,Susiana,FALSE,134
+-2028,-1901,IrShima,Susiana,FALSE,127
+-1900,-1701,IrSukkE,Susiana,TRUE,199
+-1700,-1501,IrSukkL,Susiana,TRUE,199
+-4300,-3801,IrSusa1,Susiana,TRUE,499
+-3800,-3101,IrSusa2,Susiana,FALSE,699
+-3100,-2676,IrSusa3,Susiana,FALSE,424
+930,1261,IsCommw,Iceland,FALSE,331
+-1800,-1001,ItLatBA,Latium,TRUE,799
+-3600,-1801,ItLatCA,Latium,TRUE,1799
+-1000,-717,ItLatIA,Latium,FALSE,283
+493,554,ItOstrg,Latium,FALSE,61
+904,1197,ItPapEM,Latium,FALSE,293
+1198,1308,ItPapHM,Latium,FALSE,110
+1527,1647,ItPapM1,Latium,FALSE,120
+1648,1800,ItPapM2,Latium,FALSE,152
+1378,1526,ItPapRn,Latium,FALSE,148
+568,710,ItRav**,Latium,FALSE,142
+-509,-265,ItRomER,Latium,FALSE,244
+-133,-31,ItRomLR,Latium,FALSE,102
+-264,-134,ItRomMR,Latium,FALSE,130
+-31,283,ItRomPr,Crete,FALSE,314
+-31,283,ItRomPr,Konya Plain,FALSE,314
+-31,283,ItRomPr,Latium,FALSE,314
+-31,283,ItRomPr,Paris Basin,FALSE,314
+-31,283,ItRomPr,Upper Egypt,FALSE,314
+-716,-510,ItRomRg,Latium,FALSE,206
+395,457,ItRomWe,Latium,FALSE,62
+711,903,ItStPet,Latium,FALSE,192
+1336,1466,JpAshik,Kansai,FALSE,130
+538,710,JpAsuka,Kansai,FALSE,172
+1568,1602,JpAzMom,Kansai,TRUE,34
+794,1184,JpHeian,Kansai,FALSE,390
+-13600,-9200,JpJomo1,Kansai,TRUE,4400
+-9200,-5300,JpJomo2,Kansai,TRUE,3900
+-5300,-3500,JpJomo3,Kansai,TRUE,1800
+-3500,-2500,JpJomo4,Kansai,TRUE,1000
+-2500,-1200,JpJomo5,Kansai,TRUE,1300
+-1200,-200,JpJomo6,Kansai,TRUE,1000
+1185,1333,JpKamak,Kansai,FALSE,148
+250,537,JpKofun,Kansai,TRUE,287
+1467,1567,JpSengk,Kansai,TRUE,100
+1603,1868,JpTokgw,Kansai,FALSE,265
+-300,249,JpYayoi,Kansai,TRUE,549
+991,1212,KgKarKh,Sogdiana,FALSE,221
+564,603,KgWTurk,Sogdiana,FALSE,39
+1080,1219,KhAngkC,Cambodian Basin,FALSE,139
+802,1079,KhAngkE,Cambodian Basin,FALSE,277
+1220,1431,KhAngkL,Cambodian Basin,FALSE,211
+1432,1593,KhCambd,Cambodian Basin,FALSE,161
+640,801,KhChenl,Cambodian Basin,FALSE,161
+225,539,KhFunaE,Cambodian Basin,FALSE,314
+540,639,KhFunaL,Cambodian Basin,FALSE,99
+-1200,-500,KhMekBA,Cambodian Basin,FALSE,700
+-500,-224,KhMekIA,Cambodian Basin,FALSE,276
+-2000,-1401,KzAndro,Sogdiana,TRUE,599
+-1180,-1031,LbAcPho,Galilee,TRUE,149
+1591,1618,MaSaadi,Niger Inland Delta,FALSE,27
+1712,1818,MlBaman,Niger Inland Delta,FALSE,106
+-250,49,MlJeJe1,Niger Inland Delta,TRUE,299
+50,399,MlJeJe2,Niger Inland Delta,TRUE,349
+400,899,MlJeJe3,Niger Inland Delta,TRUE,499
+900,999,MlJeJe4,Niger Inland Delta,TRUE,99
+1235,1410,MlMali*,Niger Inland Delta,FALSE,175
+1640,1711,MlSegou,Niger Inland Delta,FALSE,71
+1494,1591,MlSong2,Niger Inland Delta,FALSE,97
+583,630,MnETurk,Orkhon Valley,FALSE,47
+1206,1270,MnMngKh,Orkhon Valley,FALSE,64
+1126,1205,MnMongE,Orkhon Valley,TRUE,79
+1368,1689,MnMongL,Orkhon Valley,FALSE,321
+300,551,MnRourn,Orkhon Valley,FALSE,251
+841,907,MnShiwe,Orkhon Valley,TRUE,66
+684,744,MnTurk2,Orkhon Valley,FALSE,60
+745,840,MnUigur,Orkhon Valley,FALSE,95
+100,250,MnXianb,Orkhon Valley,FALSE,150
+-1400,-300,MnXngnE,Orkhon Valley,FALSE,1100
+-59,99,MnXngnL,Orkhon Valley,FALSE,158
+-209,-60,MnXngnM,Orkhon Valley,FALSE,149
+1695,1745,MnZungh,Orkhon Valley,FALSE,50
+1100,1202,MrWagdL,Niger Inland Delta,FALSE,102
+700,1077,MrWagdM,Niger Inland Delta,FALSE,377
+-500,-301,MxAlb1E,Valley of Oaxaca,FALSE,199
+-300,-101,MxAlb1L,Valley of Oaxaca,FALSE,199
+-100,199,MxAlb2*,Valley of Oaxaca,FALSE,299
+200,499,MxAlb3A,Valley of Oaxaca,FALSE,299
+500,899,MxAlb3B,Valley of Oaxaca,TRUE,399
+1101,1520,MxAlb5*,Valley of Oaxaca,TRUE,419
+900,1100,MxAlb5*,Valley of Oaxaca,TRUE,200
+-6000,-2001,MxArch*,Basin of Mexico,FALSE,3999
+1427,1519,MxAztec,Basin of Mexico,FALSE,92
+100,649,MxClass,Basin of Mexico,FALSE,549
+650,899,MxEpicl,Basin of Mexico,FALSE,249
+-1200,-801,MxFormE,Basin of Mexico,TRUE,399
+-400,-101,MxFormL,Basin of Mexico,TRUE,299
+-800,-401,MxFormM,Basin of Mexico,TRUE,399
+-100,99,MxFormT,Basin of Mexico,TRUE,199
+-2000,-1201,MxInitl,Basin of Mexico,FALSE,799
+1200,1426,MxPostM,Basin of Mexico,FALSE,226
+-700,-501,MxRosar,Valley of Oaxaca,TRUE,199
+-1150,-701,MxSanGu,Valley of Oaxaca,TRUE,449
+-1400,-1151,MxTieLa,Valley of Oaxaca,TRUE,249
+900,1199,MxToltc,Basin of Mexico,FALSE,299
+1262,1380,NorKing,Iceland,FALSE,118
+200,499,PeCuzE1,Cuzco,FALSE,299
+500,649,PeCuzE2,Cuzco,TRUE,149
+1000,1249,PeCuzL1,Cuzco,TRUE,249
+1250,1399,PeCuzL2,Cuzco,TRUE,149
+1,199,PeCuzLF,Cuzco,FALSE,198
+1400,1531,PeInca*,Cuzco,FALSE,131
+650,999,PeWari*,Cuzco,FALSE,349
+1734,1883,PgOrokE,Oro PNG,TRUE,149
+1884,1942,PgOrokL,Oro PNG,FALSE,58
+-7500,-5501,PkAcerN,Kachi Plain,TRUE,1999
+-5500,-4001,PkCeraN,Kachi Plain,TRUE,1499
+-4000,-3201,PkChalc,Kachi Plain,TRUE,799
+-145,-96,PkIndGr,Kachi Plain,FALSE,49
+-1800,-1301,PkPostU,Kachi Plain,FALSE,499
+-3200,-2501,PkPreUr,Kachi Plain,TRUE,699
+-1300,-551,PkProto,Kachi Plain,TRUE,749
+862,1192,PkSind1,Kachi Plain,FALSE,330
+1340,1519,PkSind2,Kachi Plain,FALSE,179
+-2500,-2101,PkUrbn1,Kachi Plain,TRUE,399
+-2100,-1801,PkUrbn2,Kachi Plain,TRUE,299
+1400,1642,RuYakuE,Lena River Valley,TRUE,242
+1643,1900,RuYakuL,Lena River Valley,FALSE,257
+-760,-656,SdKusht,Upper Egypt,FALSE,104
+661,749,SyCalUm,Southern Mesopotamia,FALSE,88
+661,749,SyCalUm,Upper Egypt,FALSE,88
+663,749,SyCalUm,Susiana,FALSE,86
+670,750,SyCalUm,Kachi Plain,FALSE,80
+1594,1767,ThAyuth,Cambodian Basin,FALSE,173
+1782,1873,ThRattn,Cambodian Basin,FALSE,91
+-3500,-2001,TjSaraz,Sogdiana,TRUE,1499
+970,1170,TnFatim,Upper Egypt,FALSE,200
+-3000,-2001,TrBrzER,Konya Plain,TRUE,999
+-1500,-1400,TrBrzL2,Konya Plain,FALSE,100
+-2000,-1700,TrBrzMD,Konya Plain,TRUE,300
+632,823,TrByzM1,Crete,FALSE,191
+632,866,TrByzM1,Konya Plain,FALSE,234
+867,1072,TrByzM2,Konya Plain,FALSE,205
+961,1072,TrByzM2,Crete,FALSE,111
+1073,1203,TrByzM3,Crete,FALSE,130
+-129,-95,TrCappL,Konya Plain,FALSE,34
+-6000,-5501,TrClcER,Konya Plain,TRUE,499
+-5000,-3001,TrClcLT,Konya Plain,TRUE,1999
+395,607,TrERom*,Crete,FALSE,212
+395,607,TrERom*,Konya Plain,FALSE,212
+395,632,TrERom*,Upper Egypt,FALSE,237
+-1344,-1181,TrHatNK,Konya Plain,FALSE,163
+-1650,-1501,TrHatOK,Konya Plain,FALSE,149
+-670,-547,TrLydia,Konya Plain,FALSE,123
+-300,-282,TrLysim,Konya Plain,FALSE,18
+-1180,-901,TrNHitt,Konya Plain,TRUE,279
+-7000,-6601,TrNeoCR,Konya Plain,FALSE,399
+-9600,-7001,TrNeoER,Konya Plain,FALSE,2599
+-6600,-6001,TrNeoLT,Konya Plain,FALSE,599
+1393,1402,TrOttm1,Konya Plain,FALSE,9
+1421,1516,TrOttm2,Konya Plain,FALSE,95
+1517,1682,TrOttm3,Konya Plain,FALSE,165
+1517,1682,TrOttm3,Upper Egypt,FALSE,165
+1534,1682,TrOttm3,Southern Mesopotamia,FALSE,148
+1538,1636,TrOttm4,Yemeni Coastal Plain,FALSE,98
+1683,1798,TrOttm4,Upper Egypt,FALSE,115
+1683,1838,TrOttm4,Konya Plain,FALSE,155
+1683,1838,TrOttm4,Southern Mesopotamia,FALSE,155
+-836,-696,TrPhryg,Konya Plain,FALSE,140
+284,394,TrRomDm,Crete,FALSE,110
+284,394,TrRomDm,Konya Plain,FALSE,110
+284,394,TrRomDm,Latium,FALSE,110
+284,394,TrRomDm,Upper Egypt,FALSE,110
+284,473,TrRomDm,Paris Basin,FALSE,189
+1093,1243,TrRum**,Konya Plain,FALSE,150
+-900,-837,TrTabal,Konya Plain,TRUE,63
+1050,1199,USCahoE,Cahokia,FALSE,149
+1200,1274,USCahoL,Cahokia,FALSE,74
+1640,1717,USIllin,Cahokia,TRUE,77
+1778,1819,USKameh,Big Island Hawaii,FALSE,41
+-600,-151,USMisEW,Cahokia,FALSE,449
+900,1049,USMisME,Cahokia,FALSE,149
+-150,299,USMisMW,Cahokia,FALSE,449
+450,599,USMisMu,Cahokia,FALSE,149
+600,749,USMisPa,Cahokia,FALSE,149
+300,449,USMisRo,Cahokia,FALSE,149
+1275,1399,USMisSd,Cahokia,FALSE,124
+750,899,USMisSp,Cahokia,FALSE,149
+1400,1639,USOneot,Cahokia,TRUE,239
+1566,1713,UsIroqE,Finger Lakes,FALSE,147
+1714,1848,UsIroqL,Finger Lakes,FALSE,134
+1300,1565,UsIroqP,Finger Lakes,FALSE,265
+1263,1361,UzChagt,Sogdiana,FALSE,98
+1599,1747,UzJanid,Sogdiana,FALSE,148
+-999,-751,UzKhw01,Sogdiana,TRUE,248
+-1400,-1000,UzKok01,Sogdiana,TRUE,400
+-750,-600,UzKok02,Sogdiana,FALSE,150
+876,990,UzSamnd,Sogdiana,FALSE,114
+604,711,UzSogdi,Sogdiana,TRUE,107
+1370,1526,UzTimur,Sogdiana,FALSE,156
+1394,1470,UzTimur,Southern Mesopotamia,FALSE,76
+1394,1470,UzTimur,Susiana,FALSE,76
+-1200,-801,YeLBA**,Yemeni Coastal Plain,FALSE,399
+-3500,-1201,YeNeoL*,Yemeni Coastal Plain,FALSE,2299
+1637,1805,YeQasmi,Yemeni Coastal Plain,FALSE,168
+-450,-111,YeQatab,Yemeni Coastal Plain,TRUE,339
+-110,149,YeSaRay,Yemeni Coastal Plain,FALSE,259
+-800,-451,YeSabaC,Yemeni Coastal Plain,TRUE,349
+1454,1517,YeTahir,Yemeni Coastal Plain,FALSE,63
